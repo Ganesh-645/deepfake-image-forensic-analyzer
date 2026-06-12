@@ -26,3 +26,12 @@ A Streamlit-based image forensic analysis tool.
 pip install -r requirements.txt
 streamlit run app.py
 ```
+
+# Deepfake Image Forensic Analyzer
+
+## 🌐 Live Demo
+
+👉 **Try it here:**
+https://deepfake-image-forensic-analyzer-6jgtr4xbjsgb6s9gwkbmbs.streamlit.app
+
+---
